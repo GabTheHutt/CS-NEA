@@ -1,0 +1,16 @@
+{
+    "difficulty": 6,
+    "volume": 75,
+    "show_enemy_health": true,
+    "keybinds": {
+        "shoot": "r",
+        "dash": "left shift",
+        "left": "a",
+        "right": "d",
+        "jump": "space",
+        "melee": "e",
+        "interact": "f"
+    },
+    "music": true,
+    "sfx": true
+}
